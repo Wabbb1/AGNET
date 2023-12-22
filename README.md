@@ -1,4 +1,5 @@
-##AGNET:Adaptive feature fusion network guided by Gabor filters
+AGNET:Adaptive feature fusion network guided by Gabor filters
+
 ##Install
 ```shell script
 pip install -r requirement.txt
