@@ -1,6 +1,6 @@
 AGNET:Adaptive feature fusion network guided by Gabor filters
 
-##Install
+## Install
 ```shell script
 pip install -r requirement.txt
 ./compile.sh
